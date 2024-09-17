@@ -26,6 +26,9 @@
     <loc>http://localhost:1313/hugomath42/projects/test-page/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugomath42/about/</loc>
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugomath42/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url>
