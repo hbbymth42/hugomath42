@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Sample Site for Hugomath42 Theme</title>
+    <title>About on Test Site</title>
     <link>http://localhost:1313/hugomath42/about/</link>
-    <description>Recent content in About on Sample Site for Hugomath42 Theme</description>
+    <description>Recent content in About on Test Site</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate></lastBuildDate>
