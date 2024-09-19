@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugomath42/posts/my-first-post/</loc>
-    <lastmod>2024-09-14T15:18:43+10:00</lastmod>
+    <loc>http://localhost:1313/hugomath42/posts/second-post/</loc>
+    <lastmod>2024-09-19T20:06:59+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugomath42/projects/test-2/</loc>
-    <lastmod>2024-09-14T15:18:43+10:00</lastmod>
+    <lastmod>2024-09-19T20:06:59+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugomath42/projects/test-page/</loc>
+    <lastmod>2024-09-19T20:06:59+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugomath42/posts/my-first-post/</loc>
     <lastmod>2024-09-14T15:18:43+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugomath42/posts/post-3/</loc>
