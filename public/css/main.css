@@ -1,10 +1,13 @@
+html {
+    font-size: 17px;
+}
+
 body {
   background-color: hsl(300, 53%, 7%);
   color: hsl(75, 100%, 75%);
   font-family: sans-serif;
   line-height: 1.5;
   margin: auto;
-  padding: 1rem;
   max-width: 900px;
   display: flex;
   flex-direction: column;
@@ -13,7 +16,6 @@ body {
 
 header {
   border-bottom: 0.1rem solid hsl(76, 100%, 10%);
-  margin-top: 1rem;
   margin-bottom: 1rem;
   h1 {
       font-size: 3rem;
@@ -28,7 +30,6 @@ header {
 footer {
   border-top: 0.1rem solid hsl(76, 100%, 10%);
   margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 a {
@@ -41,6 +42,10 @@ a:hover {
 
 a:active {
    color: hsl(0, 100%, 75%); 
+}
+
+a:visited {
+    color: hsl(300, 100%, 75%);
 }
 
 nav ul {
